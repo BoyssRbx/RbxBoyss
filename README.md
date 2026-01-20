@@ -69,8 +69,8 @@
   <div class="card">
     <img src="https://tr.rbxcdn.com/180DAY-9e3b4c6b1d8e0b9a7c5e1c2f3a4b5c6d/256/256/Image/Png" alt="Fish It Logo" class="logo" />
     <h1>Private Server Drexx</h1>
-    <p>Server khusus <b>Roblox Fish It</b> versi gaming.
-    Mabar santai, no lag, langsung gas!</p>
+    <p>Server khusus <b>Roblox Fish It</b>
+      Mabar santai</p>
 
     <a class="button" href="https://www.roblox.com/share?code=55b8b249166de7419447264c113d34de&type=Server" target="_blank">
       JOIN NOW
